@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="divine.api.main" target="1.8" />
+      <module name="divine.api.test" target="1.8" />
+      <module name="divine.client.main" target="1.8" />
+      <module name="divine.client.test" target="1.8" />
+      <module name="divine.deobfuscator.main" target="1.8" />
+      <module name="divine.deobfuscator.test" target="1.8" />
+      <module name="divine.divine-api.main" target="1.8" />
+      <module name="divine.divine-api.test" target="1.8" />
+      <module name="divine.divine-client.main" target="1.8" />
+      <module name="divine.divine-client.test" target="1.8" />
+      <module name="divine.divine.main" target="1.8" />
+      <module name="divine.divine.test" target="1.8" />
+      <module name="divine.logger.main" target="1.8" />
+      <module name="divine.logger.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

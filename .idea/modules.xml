@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Divine.iml" filepath="$PROJECT_DIR$/Divine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/divine.deobfuscator.iml" filepath="$PROJECT_DIR$/.idea/modules/divine.deobfuscator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/deobfuscator/divine.deobfuscator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/deobfuscator/divine.deobfuscator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/deobfuscator/divine.deobfuscator.test.iml" filepath="$PROJECT_DIR$/.idea/modules/deobfuscator/divine.deobfuscator.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/divine.divine.iml" filepath="$PROJECT_DIR$/.idea/modules/divine.divine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/divine-api/divine.divine-api.iml" filepath="$PROJECT_DIR$/.idea/modules/divine-api/divine.divine-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/divine-api/divine.divine-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/divine-api/divine.divine-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/divine-api/divine.divine-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/divine-api/divine.divine-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/divine.divine-client.iml" filepath="$PROJECT_DIR$/.idea/modules/divine.divine-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/divine-client/divine.divine-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/divine-client/divine.divine-client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/divine-client/divine.divine-client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/divine-client/divine.divine-client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/divine.divine.main.iml" filepath="$PROJECT_DIR$/.idea/modules/divine.divine.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/divine.divine.test.iml" filepath="$PROJECT_DIR$/.idea/modules/divine.divine.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,33 @@
+plugins {
+    id 'java'
+}
+
+allprojects {
+    group 'divine'
+    version '1.0-SNAPSHOT'
+}
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'commons-cli', name: 'commons-cli', version: '1.4'
+
+    compile project(':divine-client')
+    compile project(':deobfuscator')
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+jar {
+    manifest {
+        attributes "Main-Class": "divine.boot.Boot"
+    }
+
+    from {
+        configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}

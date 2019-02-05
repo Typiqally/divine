@@ -1,0 +1,4 @@
+rootProject.name = 'divine'
+include 'divine-client'
+include 'divine-api'
+include 'deobfuscator'
